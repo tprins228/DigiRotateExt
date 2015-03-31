@@ -1,0 +1,42 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "holcik@gmail.com",
+    "longName": "DigiRotate",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/BT.png",
+                "name": "BT_IMG",
+                "type": "png"
+            },
+            {
+                "file": "images/60back.png",
+                "name": "IMG_BACK",
+                "type": "png"
+            },
+            {
+                "file": "images/60sipka.png",
+                "name": "IMG_ARROW",
+                "type": "png"
+            },
+            {
+                "file": "images/60menu.png",
+                "menuIcon": true,
+                "name": "IMGMENU",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "DigiRotate",
+    "uuid": "7708be5f-1c1b-445d-8bb6-aea746ca965a",
+    "versionCode": 1,
+    "versionLabel": "1.05",
+    "watchapp": {
+        "watchface": true
+    }
+}
